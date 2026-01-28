@@ -13,6 +13,11 @@ Expert creative direction council with 6 advisors for visual identity, branding,
 
 ## Installation
 
+### npx skills add (recommended)
+```bash
+npx skills add antonioc-cl/creative-direction-council
+```
+
 ### Claude Code
 ```bash
 /plugin add https://github.com/antonioc-cl/creative-direction-council
